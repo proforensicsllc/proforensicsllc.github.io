@@ -2,13 +2,11 @@
 layout: default
 title: Home
 ---
-## Useful links:
-* [Resources for CC&Rs, design guidelines, request for approvals, ...](/resources/)
-* [Minutes of latest board meeting]({{site.posts.first.url}}) {{site.posts.first.date | date: "%b %-d, %Y" }}
+# Professional Forensics LLC
 
 ## Postal address
 
-    THHA
+    Professional Forensics
     PMB #824
     515 NW Saltzman Road
     Portland, OR 97229
@@ -16,10 +14,9 @@ title: Home
 * Registry national number is 483392-87 as kept with the Oregon Secretary of State
 
 ## Email:
-Preferred (all board Members): board@thha.org, put "board" in the subject like: 'board approve my roof'
+Preferred (all board Members): joel@thha.org, put 
 
-* **[ President ]** Pat Goodell (President) rickpat68@hotmail.com
-* **[ Landscaping and Architecture ]** Mike Mitlehner mike.m.home@outlook.com
-* Carey Williams clwilli0719@mac.com
-* **[ Treasurer ]** Paul Cummings p_cummings@comcast.net
-* **[ Secretary ]** Powell Quiring powellquiring@gmail.com
+* **[ CEO ]** Joel Brillhart (President) rickpat68@hotmail.com
+* **[ Operations Manager]** Jane "Lazer" Brillhart jane@outlook.com
+* **[ Assistant Director ]** Diana "Balistic" Brillhart diana@mac.com
+* **[ Assistant Director ]** Danniel "Pilot" Brillhart danny@mac.com
