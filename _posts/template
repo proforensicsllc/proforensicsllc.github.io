@@ -1,6 +1,5 @@
 ---
 layout: post
-members: [powell, lori, pat, sara, alan, mike, cary, paul]
 ---
 {% include members.md %}
 

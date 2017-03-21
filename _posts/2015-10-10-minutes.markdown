@@ -1,33 +1,12 @@
 ---
 layout: post
-members: [powell, lori, pat, sara, alan, paul]
 ---
 {% include members.md %}
 
-# Treasurer’s Report
-$18,904.62
-
-# Old Business
-
-
-# New Business
-
-Clarification on trimming the bushes on the Blivens property close to the Hibbard entrance, east side.
-
-3919 NW Loy Ct. tree removal request - approved
-
-# THHA Picnic
-
-* Cost of the picnic will be calculated and presented by Sara next  week.
-* Could have one fewer table to sit, one more for food.
-* Game was good, thanks Michael Liu
-* Had extra lemon water left
-* Bee catchers were great
-* Meeting Adjourned at about 8:30 pm.
-* Next Meeting Scheduled:  Monday November 9
-
-# Meeting Adjourned
-About 8:30 pm.
-
-# Next Meeting Scheduled
-Monday, November 9
+# Summary
+* Trial xxx
+* Date 01/02/2017
+* Low firm: ...
+* Contact: available upon request
+* 4 disk drives imaged
+* Testified in civil court

@@ -1,0 +1,21 @@
+---
+layout: default
+title: References
+permalink: /references/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">References</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% if post.title == "Minutes" %}
+        <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>
