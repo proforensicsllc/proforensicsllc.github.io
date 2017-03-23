@@ -6,7 +6,7 @@
     background-repeat: repeat-y;
     background-repeat: repeat-x;
     border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color;
+    border-bottom: 1 solid $grey-color;
     min-height: 100px;
 
     // Positioning context for the mobile navigation icon
@@ -14,6 +14,7 @@
 }
 
 .site-title {
+    background-color: $background-color;
     font-size: 26px;
     line-height: 30px;
     letter-spacing: -1px;
@@ -26,6 +27,7 @@
 }
 
 .site-nav {
+    background-color: $background-color;
     float: left;
     line-height: 28px;
 
