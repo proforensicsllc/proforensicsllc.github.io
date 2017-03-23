@@ -16,13 +16,12 @@ When done properly previously deleted data is often recovered.
 Joel is a recently retired FBI agent where he was trained in computer forensics
 and testified on high profile cases.
 
-## Email:
-Preferred (all board Members): joel@thha.org, put 
+## Email: joel@thha.org, put 
 
-* **[ CEO ]** Joel Brillhart (President) rickpat68@hotmail.com
+* **[ CEO ]** Joel Brillhart (President) joel@hotmail.com
 * **[ Operations Manager]** Jane "Lazer" Brillhart jane@outlook.com
 * **[ Assistant Director ]** Diana "Balistic" Brillhart diana@mac.com
-* **[ Assistant Director ]** Danniel "Pilot" Brillhart danny@mac.com
+* **[ Assistant Director ]** Danniel "Aviator" Brillhart danny@mac.com
 
 ## Postal address
 
