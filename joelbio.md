@@ -5,7 +5,7 @@ title: Joel Brillhart
 # Joel Brillhart
 ![joel](/assets/joel.jpg)
 
-![Curriculum Vitae](/assets/joelCV.pdf)
+[Curriculum Vitae](/assets/joelCV.pdf)
 
 joel Brillhart is the founder of {{ site.title }}. After serving 23 years as a FBI Special Agent.  Mr. Brillhart began his FBI career in Minneapolis, Minnesota, where he initially investigated drug and organized crime, with an emphasis on money laundering activities.  As a Certified Public Accountant (CPA), Mr. Brillhart was eventually assigned to work complex financial, insurance and health care fraud activities in Minneapolis and Los Angeles.   Mr. Brillhart subsequently transferred to the Portland FBI division from Los Angeles, where he investigated Cyber intrusion and child exploitation matters.  In 2005, Mr. Brillhart began his computer and cell phone forensic training with the FBI and was eventually assigned to the Northwest Regional Computer Forensic Laboratory where he processed digital evidence on a variety of state and federal matters.  This specialized computer and cell phone forensic training included over 600 hours of classroom and practical problems leading to his designation as a FBI certified Forensic Examiner. 
 
