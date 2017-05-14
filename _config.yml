@@ -1,11 +1,15 @@
 # Site settings
 title: Professional Forensic LLC
-email: joel@thha.org
+email: jdbrillhart@gmail.com
+
+#description: > # this means to ignore newlines until "baseurl:"
+#  Professional Forensics LLC<br/>
+#  PMB #824<br/>
+#  515 NW Saltzman Road<br/>
+#  Portland, OR 97229<br/>
+
 description: > # this means to ignore newlines until "baseurl:"
   Professional Forensics LLC<br/>
-  PMB #824<br/>
-  515 NW Saltzman Road<br/>
-  Portland, OR 97229<br/>
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://proforensicsllc.github.io" # the base hostname & protocol for your site
 app:

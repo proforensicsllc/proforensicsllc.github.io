@@ -2,15 +2,18 @@
  * Site header
  */
 .site-header {
-    background-image: url('/images/THHA-MonSM2.jpg');
-    background-repeat: repeat-y;
-    background-repeat: repeat-x;
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1 solid $grey-color;
-    min-height: 100px;
+    // background-image: url('/images/THHA-MonSM2.jpg');
+    // background-repeat: repeat-y;
+    // background-repeat: repeat-x;
+    // border-top: 5px solid $grey-color-dark;
+    // border-bottom: 1 solid $grey-color;
+    // min-height: 100px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    // NEW
+    background-color: $site-nav-color;
 }
 
 .site-title {
@@ -27,7 +30,7 @@
 }
 
 .site-nav {
-    background-color: $background-color;
+    background-color: $site-nav-color;
     float: left;
     line-height: 28px;
 
@@ -39,7 +42,7 @@
         padding: 4px;
         color: $text-color;
         line-height: $base-line-height;
-        background-color: $background-color;
+        // background-color: $background-color;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
